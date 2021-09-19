@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\bin\Debug\BasicWinForm.exe.config
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\bin\Debug\BasicWinForm.exe
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\bin\Debug\BasicWinForm.pdb
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.frmMain.resources
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.Properties.Resources.resources
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.exe
+C:\Users\USER\source\repos\BasicWinForm\BasicWinForm\obj\Debug\BasicWinForm.pdb
